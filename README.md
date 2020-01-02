@@ -1,8 +1,9 @@
+<center>
 # Sms Spam Filter Trainer App
 <p>
 Training and testing a model on a dataset of sms messages.
 <br>
-Default Arguments:
+  <b>Default Arguments:</b>
 <br>
 Randon Forest Classification
 <br>
@@ -11,8 +12,9 @@ TfIdf Vectorizer
 Stemming Pre-Processing
 <br>
 SMSSpamCollection.txt dataset
+</p>
 <p>
-Optional arguments include:
+  <b>Optional arguments include:</b>
 <br>
 -r -Random Forest Classification
 <br>
@@ -27,3 +29,5 @@ Optional arguments include:
 -l -Lemmitizing SMS Content When Pre-Processing
 <br>
 -d -Optional directory for SMS dataset (2 datasets included in repository)
+</p>
+</center>
