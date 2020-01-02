@@ -4,7 +4,7 @@ Training and testing a model on a dataset of sms messages.
 <p>
   <b>Default Arguments:</b>
 <br>
-Randon Forest Classification
+Random Forest Classification
 <br>
 TfIdf Vectorizer
 <br>
