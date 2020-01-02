@@ -1,4 +1,4 @@
-# Sms Spam Filter Trainer App
+# SMS Spam Filter Training Command Line App
 
 Training and testing a model on a dataset of sms messages.
 <p>
