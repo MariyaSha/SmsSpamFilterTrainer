@@ -2,7 +2,6 @@
 
 Training and testing a model on a dataset of sms messages.
 <p>
-<br>
   <b>Default Arguments:</b>
 <br>
 Randon Forest Classification
