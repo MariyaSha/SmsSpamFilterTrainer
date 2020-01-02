@@ -1,4 +1,3 @@
-<center>
 # Sms Spam Filter Trainer App
 <p>
 Training and testing a model on a dataset of sms messages.
@@ -30,4 +29,3 @@ SMSSpamCollection.txt dataset
 <br>
 -d -Optional directory for SMS dataset (2 datasets included in repository)
 </p>
-</center>
