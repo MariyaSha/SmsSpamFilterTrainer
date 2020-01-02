@@ -4,7 +4,7 @@ Training and testing a model on a dataset of sms messages.
 <p>
   <b>Default Arguments:</b>
 <br>
-Random Forest Classification
+Random Forest Classification (150 estimators, no max-depth)
 <br>
 TfIdf Vectorizer
 <br>
@@ -18,6 +18,10 @@ SMSSpamCollection.txt dataset
 -r -Random Forest Classification
 <br>
 -g -Gradient Boosting Classification
+<br>
+-n -Number of Estimators (Classification Parameters)
+<br>
+-m -Max Depth (Classification Parameters)
 <br>
 -t -TfIdf Vectorization
 <br>
