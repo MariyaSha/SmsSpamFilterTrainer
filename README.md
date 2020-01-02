@@ -19,9 +19,9 @@ SMSSpamCollection.txt dataset
 <br>
 -g -Gradient Boosting Classification
 <br>
--n -Number of Estimators (Classification Parameters)
+-n -Number of Estimators (Classification Parameter)
 <br>
--m -Max Depth (Classification Parameters)
+-m -Max Depth (Classification Parameter)
 <br>
 -t -TfIdf Vectorization
 <br>
