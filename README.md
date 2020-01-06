@@ -31,5 +31,5 @@ SMSSpamCollection.txt dataset
 <br>
 -l -Lemmitizing SMS Content When Pre-Processing
 <br>
--d -Dataset Directory (2 datasets included in repository)
+-d -Dataset Directory
 </p>
